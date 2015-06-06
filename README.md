@@ -1,5 +1,10 @@
 # Getting-and-Cleaning-Data_Asses1
-Data Set Information:
+
+1 Data File
+
+Make sure you have the "EPC_PROJ.csv" in your working directory
+
+2 Data Set Information:
 
 This archive contains 2075259 measurements gathered between December 2006 and November 2010 (47 months). 
 Notes: 
@@ -7,7 +12,7 @@ Notes:
 2.The dataset contains some missing values in the measurements (nearly 1,25% of the rows). All calendar timestamps are present in the dataset but for some timestamps, the measurement values are missing: a missing value is represented by the absence of value between two consecutive semi-colon attribute separators. For instance, the dataset shows missing values on April 28, 2007.
 
 
-Attribute Information:
+3 Attribute Information:
 
 1.date: Date in format dd/mm/yyyy 
 2.time: time in format hh:mm:ss 
@@ -19,5 +24,5 @@ Attribute Information:
 8.sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light. 
 9.sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-Source
+4 Source
 Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
